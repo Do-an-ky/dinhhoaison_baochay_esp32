@@ -1,0 +1,6 @@
+{
+  "name": "Báo Cháy IoT",
+  "description": "Ứng dụng giám sát và báo cháy tự động IoT kết nối Firebase Realtime Database và vi điều khiển ESP32 theo chuẩn Material Design 3.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
